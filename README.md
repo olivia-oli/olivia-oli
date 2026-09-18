@@ -1,4 +1,7 @@
-## Hi There Olivia
+## Hi There Olivia 🖐
+I have studied full-stack developer 
+I enjoy learning new Technology 
+I enjoy listening to music 
 ## 🛠️ Tech Stack
 
 ### Frontend
