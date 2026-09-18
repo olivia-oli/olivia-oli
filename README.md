@@ -1,12 +1,12 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Vite
-- Next.js
+HTML
+CSS
+JavaScript
+React
+Vite
+Next.js
 
 ### Backend
 - Node.js
