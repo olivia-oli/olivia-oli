@@ -1,4 +1,4 @@
-## Hi 👋 I am  Olivia Nemaguvhuni 🖐
+## Hi 👋 I am  Olivia Nemaguvhuni 
 -I am a full-stack developer 
 -I enjoy learning new Technology 
 -I enjoy listening to music 
