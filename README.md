@@ -1,7 +1,9 @@
-## Hi There Olivia 🖐
-I have studied full-stack developer 
-I enjoy learning new Technology 
-I enjoy listening to music 
+## Hi 👋 I am  Olivia Nemaguvhuni 🖐
+-I am a full-stack developer 
+-I enjoy learning new Technology 
+-I enjoy listening to music 
+## About Me
+I have worked as a frontend developer at Jpitdev for a year.
 ## 🛠️ Tech Stack
 
 ### Frontend
