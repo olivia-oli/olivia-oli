@@ -1,4 +1,26 @@
-## Hi there 👋
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Next.js
+
+### Backend
+- Node.js
+- Express.js
+- Python
+
+### Database
+- MongoDB
+- Firebase
+
+
+### Tools
+- GitHub
+- VS Code
 
 <!--
 **olivia-oli/olivia-oli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
